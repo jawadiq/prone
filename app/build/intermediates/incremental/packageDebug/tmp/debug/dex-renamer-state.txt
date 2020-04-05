@@ -1,0 +1,4 @@
+#Sat Apr 04 21:28:13 CEST 2020
+base.0=E\:\\projects\\native\\prone\\android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
